@@ -6,6 +6,10 @@ html, body {
   width: 100%;
   min-height: 100%;
   overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  -webkit-text-size-adjust: 100%;
 }
 
 body {
@@ -20,6 +24,9 @@ body {
   position: relative;
   color: #000;
   padding: 16px;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .card {
@@ -58,6 +65,9 @@ h1 {
   color: #111;
   text-shadow: 2px 2px 0 #39ff14, -2px -2px 0 #000;
   animation: wiggle 0.6s infinite alternate;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 700;
 }
 
 @keyframes wiggle {
@@ -103,6 +113,8 @@ button {
   -webkit-tap-highlight-color: transparent;
   text-transform: uppercase;
   transition: background-color 0.5s ease, color 0.5s ease;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 #yesBtn,
