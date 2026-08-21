@@ -15,7 +15,7 @@ date-invite/
 
 ##preview web-site
 
-<img src="photo.png" alt="Превью" class="invite-photo">
+<img src="favicone/photo.png" alt="Превью" class="invite-photo">
 
 ## Как настроить под себя
 
