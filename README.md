@@ -13,9 +13,11 @@ date-invite/
 └── README.md    — этот файл
 ```
 
-##preview web-site
+## Превью
 
-<img src="favicone/photo.png" alt="Превью" class="invite-photo">
+<p align="center">
+  <img src="favicon/photo.png" alt="Превью проекта" width="100%" max-width="600px" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+</p>
 
 ## Как настроить под себя
 
